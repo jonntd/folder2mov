@@ -28,9 +28,9 @@
 #####                                                                       #####
 #   #   Todo:                                                               #   #
 #   #       - Error handling (trailing Spaces or "/" in Settings and Path)  #   #
-#####                                                                       #####
-#   #       - better Startup Interface                                      #   #
-#   #       - Progressbar (1 for current Seq, 1 for all Seq)                #   #
+#####       - Progressbar (1 for current Seq, 1 for all Seq)                #####
+#   #                                                                       #   #
+#   #                                                                       #   #
 #####                                                                       #####
 #   #                                                                       #   #
 #   #                                                                       #   #
